@@ -9,7 +9,7 @@ Supermarket Dashboard to analyse customer's orders in different regions and dema
 
 
 
-CSV Data processed and fine-tuned with PostgreSQL and connected to Heroku PostgreSQL Add-on.
+CSV Data processed and fine-tuned with PostgreSQL and connected by Heroku PostgreSQL Add-on.
 
 # Made with
 
